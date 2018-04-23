@@ -1,0 +1,12 @@
+D:\C#\simple_jarvis\simple_jarvis\bin\Debug\simple_jarvis.exe.config
+D:\C#\simple_jarvis\simple_jarvis\bin\Debug\simple_jarvis.exe
+D:\C#\simple_jarvis\simple_jarvis\bin\Debug\simple_jarvis.pdb
+D:\C#\simple_jarvis\simple_jarvis\bin\Debug\MetroFramework.Design.dll
+D:\C#\simple_jarvis\simple_jarvis\bin\Debug\MetroFramework.dll
+D:\C#\simple_jarvis\simple_jarvis\bin\Debug\MetroFramework.Fonts.dll
+D:\C#\simple_jarvis\simple_jarvis\obj\Debug\simple_jarvis.csprojResolveAssemblyReference.cache
+D:\C#\simple_jarvis\simple_jarvis\obj\Debug\simple_jarvis.Form1.resources
+D:\C#\simple_jarvis\simple_jarvis\obj\Debug\simple_jarvis.Properties.Resources.resources
+D:\C#\simple_jarvis\simple_jarvis\obj\Debug\simple_jarvis.csproj.GenerateResource.Cache
+D:\C#\simple_jarvis\simple_jarvis\obj\Debug\simple_jarvis.exe
+D:\C#\simple_jarvis\simple_jarvis\obj\Debug\simple_jarvis.pdb
